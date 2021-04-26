@@ -1,0 +1,5 @@
+*.tmp
+user.properties
+
+/private/
+/sites/user/
